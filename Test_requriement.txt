@@ -1,0 +1,18 @@
+1. Generate test cases for a function that checks whether a number is prime.
+
+2. Generate test cases for a function that returns the factorial of a given number.
+
+3. Generate test cases for a function that checks if a string is a palindrome.
+
+4. Generate test cases for a function that sorts a list of integers in ascending order.
+
+5. Generate test cases for a function that validates whether a string is a valid date in the format YYYY-MM-DD.
+
+6. Generate test cases for a function that determines if two strings are anagrams.
+
+7. Generate test cases for a function that divides two numbers, including edge cases like division by zero.
+
+8. Generate test cases for a function that returns the Nth Fibonacci number.
+9. Generate test cases for a function that finds the maximum value in a list.
+
+10. Generate test cases for a function that reverses the words in a sentence.
